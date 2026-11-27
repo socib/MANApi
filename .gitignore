@@ -1,0 +1,10 @@
+# Ignore manapi
+manapi/videos/
+manapi/images/
+manapi/scripts/logs/
+manapi/scripts/info.txt
+manapi/scripts/manapi_requeriments.txt
+# Ignore picam
+picam/videos/
+picam/start_stream.sh
+__pycache__/
